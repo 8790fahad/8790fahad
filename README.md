@@ -1,6 +1,6 @@
 <!--### Hi, there 👋 I'm Mustapha Issa Toyin-->
 <h1 align="center">⚡️ Hi, I'm Fahad Ado Muhammad ⚡️</h1>
-<h4 align="center"><a href="https://facebook.com/fahadkauragoje">Facebook</a> &bull;
+<h4 align="center"><a href="https://facebook.com/fahadkauragoje">Facebook</a>
 
 ----
 
