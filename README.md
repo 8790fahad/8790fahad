@@ -4,7 +4,7 @@
 
 
 
- 🔭 I’m currently working on [mylikita](https://mylikita.clinic) and[Accural]
+<li> 🔭 I’m currently working on [mylikita](https://mylikita.clinic) and[Accural]</li>
  🌱 I’m currently Software developer @ Brainstorm ITsolution
  💬 Ask me about JavaScript and React
  📫 How to reach me: [8790fahadado@gmail.com]
