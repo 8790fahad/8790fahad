@@ -2,7 +2,7 @@
 <h1 align="center">⚡️ Hi, I'm Fahad Ado Muhammad ⚡️</h1>
 <h4 align="center"><a href="https://facebook.com/fahadkauragoje">Facebook</a>
 
-<div align="center">
+<div align="left">
 
 <li> 🔭 I’m currently working on [mylikita](https://mylikita.clinic) and[Accural]</li>
  <li>🌱 I’m currently Software developer @ Brainstorm ITsolution </li>
