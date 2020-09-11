@@ -17,7 +17,7 @@
 
 
 Here are some ideas to get you started:
-
+<div align="left">
 
 <li> 🌱 I’m currently learning ... </li>
  <li>👯 I’m looking to collaborate on ... </li>
@@ -26,4 +26,5 @@ Here are some ideas to get you started:
  <li>📫 How to reach me: ... </li>
  <li>😄 Pronouns: ... </li>
  <li>⚡ Fun fact: ... </li>
+ </div>
 
