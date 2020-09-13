@@ -1,34 +1,31 @@
 <!--### Hi, there 👋 I'm Mustapha Issa Toyin-->
-<h1 align="center">⚡️ Hi, I'm Fahad Ado Muhammad ⚡️</h1>
-<h4 align="center"><a href="https://facebook.com/fahadkauragoje">Facebook</a>
+<h1 align="center">⚡️ Hi, I'm Mustapha Issa Toyin ⚡️</h1>
+<h4 align="center"><a href="https://twitter.com/dev_emaitee">Twitter</a> &bull; <a href="https://medium.com/@mustaphaissatoyin">Blog</a> &bull; <a href="https://www.linkedin.com/in/mustapha-issa-toyin-67733489/">LinkedIn</a></h4>
 
-<div align="left">
+----
 
-<li> 🔭 I’m currently working on [mylikita](https://mylikita.clinic) and[Accural]</li>
- <li>🌱 I’m currently Software developer @ Brainstorm ITsolution </li>
- <li>💬 Ask me about JavaScript and React </li>
- <li>📫 How to reach me: [8790fahadado@gmail.com] </li>
- <li>😄 Pronouns: he/him </li>
- <li>🎧 Listening to: blank </li>
-</div>
-[![Fahad's github stats](https://github-readme-stats.vercel.app/api?username=8790fahad&count_private=true&show_icons=true&theme=radical)](https://github.com/8790fahad/github-readme-stats)
+- 🔭 I’m currently working on [mylikita](https://mylikita.clinic)
+- 🌱 I’m currently learning Data Science
+- 💬 Ask me about JavaScript and React
+- 📫 How to reach me: [issatoyin@gmail.com](mailto:issatoyin@gmail.com)
+- 😄 Pronouns: he/him
+- 🎧 Listening to: blank
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8790fahad)](https://github.com/8790fahad/github-readme-stats)-->
+[![Mustapha's github stats](https://github-readme-stats.vercel.app/api?username=emaitee&count_private=true&show_icons=true&theme=radical)](https://github.com/emaitee/github-readme-stats)
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emaitee)](https://github.com/emaitee/github-readme-stats)-->
 <!--
 **emaitee/emaitee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.sss
 
-
-
-
 Here are some ideas to get you started:
-<div align="left">
 
-<li> 🌱 I’m currently learning ... </li>
- <li>👯 I’m looking to collaborate on ... </li>
- <li>🤔 I’m looking for help with ... </li>
- <li>💬 Ask me about ... </li>
- <li>📫 How to reach me: ... </li>
- <li>😄 Pronouns: ... </li>
- <li>⚡ Fun fact: ... </li>
- </div>
+- 
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
