@@ -13,7 +13,7 @@
 </div>
 [![8790Fahad's github stats](https://github-readme-stats.vercel.app/api?username=8790fahad&count_private=true&show_icons=true&theme=radical)](https://github.com/8790fahad/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8790fahad)](https://github.com/8790fahad/github-readme-stats)
+
 
 
 Here are some ideas to get you started:
