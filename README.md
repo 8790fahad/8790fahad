@@ -11,7 +11,7 @@
  <li>😄 Pronouns: he/him </li>
  <li>🎧 Listening to: blank </li>
 </div>
-[![8790Fahad's github stats](https://github-readme-stats.vercel.app/api?username=8790fahad&count_private=true&show_icons=true&theme=radical)](https://github.com/8790fahad/github-readme-stats)
+[![Fahad's github stats](https://github-readme-stats.vercel.app/api?username=8790fahad&count_private=true&show_icons=true&theme=radical)](https://github.com/8790fahad/github-readme-stats)
 
 
 
