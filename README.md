@@ -10,7 +10,6 @@
 - 📫 How to reach me: [8790fahadado@gmail.com](mailto:8790fahadado@gmail.com)
 - 😄 Pronouns: he/him
 - 🎧 Listening to: Quran
-- 🎧 Like Driving Car
 
 [![Fahad's github stats](https://github-readme-stats.vercel.app/api?username=8790fahad&count_private=true&show_icons=true&theme=radical)](https://github.com/8790fahad/github-readme-stats)
 
