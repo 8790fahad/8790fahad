@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [mylikita](https://mylikita.clinic)
 - 🌱 I’m currently Software Developer
-- 💬 Ask me about JavaScript and React
+- 💬 Ask me about JavaScript,Rust and React
 - 📫 How to reach me: [8790fahadado@gmail.com](mailto:8790fahadado@gmail.com)
 - 😄 Pronouns: he/him
 - 🎧 Listening to: Quran
