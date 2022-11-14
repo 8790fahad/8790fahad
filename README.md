@@ -1,5 +1,5 @@
 <!--### Hi, there 👋 -->
-<h1 align="center">⚡️ Hi, I'm Fahad Ado Muhammad⚡️</h1>
+<h1 align="center">⚡️ Hi, I'm Muhammad Fahad Ado⚡️</h1>
 <h4 align="center"><a href="https://twitter.com/8790Fahad">Twitter</a> &bull; <a href="https://www.linkedin.com/in/muhammad-fahad-ado-1506a31a0/">LinkedIn</a></h4>
 
 ----
